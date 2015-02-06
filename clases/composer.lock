@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "d9b767ea5a409a0ef7c0730dbda35ae1",
+	"hash": "0a6ff006a95066766a6c481ebf07b7d4",
     "packages": [
         {
             "name": "agustincl/phpzero",
